@@ -1,4 +1,4 @@
-# oneKey 🔐
+# oneKey
 
 > **Status: Architecture phase — implementation not yet started.**
 
